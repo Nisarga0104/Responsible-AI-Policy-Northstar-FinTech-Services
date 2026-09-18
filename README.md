@@ -32,6 +32,8 @@ The policy is designed to work alongside the NIST AI RMF-based risk assessment i
 
 **Principles → Roles → Risk Classification → Lifecycle Gates → Controls → Monitoring → Incident Response → Review**
 
+![AI Governance Lifecycle](06_Visuals/ai_governance_lifecycle.png)
+
 ## Important boundary
 
 Northstar is fictional. The risk tiers and governance requirements are internal portfolio constructs and are not presented as legal classifications.
@@ -48,7 +50,7 @@ The policy also does not itself establish legal compliance. Applicable law and r
 | `04_Lifecycle/` | Lifecycle-stage control requirements |
 | `05_Templates/` | Reusable intake and approval artifacts |
 | `06_Visuals/` | Governance process diagrams |
-| `07_Final/` | Original final policy PDF |
+| `07_Final/` | [Final policy document (PDF)](07_Final/Responsible_AI_Policy_Final.pdf) |
 | `08_References/` | Source and framework references |
 
 ## Relationship to other portfolio projects
